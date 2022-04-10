@@ -1,0 +1,31 @@
+.heading{
+    margin: 0px;
+    width: 100%;
+    
+    box-shadow: 15px 15px 20px gray;
+    font-size: 25px;
+}
+.text{
+    padding: 10px;
+    font-size: 19px;
+    width: 1000px;
+    
+}
+.fotter{
+    width: 100%;
+    bottom: 0px;
+    position: fixed;
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+video{
+width: 500px;
+height: 500;
+}
+canvas{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(180, 180, 180);
+    
+}
